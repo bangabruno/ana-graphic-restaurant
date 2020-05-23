@@ -44,10 +44,3 @@ jupyter labextension install jupyterlab-server-proxy
 
 # Building everything up
 jupyter lab build --dev
-
-###############################################################
-#             moving to a local installation folder           #
-###############################################################
-
-mkdir ~/resources/local
-cd    ~/resources/local
