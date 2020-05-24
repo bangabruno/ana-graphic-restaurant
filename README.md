@@ -1,4 +1,4 @@
-# ana-graphic-restaurant
+# ana-graphic-restaurants
 Análise de dados com plotagem de gráficos sobre os pedidos, produtos de diversos estabelecimentos
 
 # Instruções
